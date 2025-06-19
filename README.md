@@ -1,5 +1,7 @@
 # 💳 Credit Card Fraud Detection - Frontend Website
 
+#deply link:- https://creditcardfrauddetection-sentinel.netlify.app/
+
 A fully frontend-based simulation project that educates users on how modern fraud detection systems work using behavioral analysis, machine learning visualization, and rule-based tracking. This project includes an interactive, animated landing page and showcases essential security features through a UI-based approach—no backend required.
 
 ---
